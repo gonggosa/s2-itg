@@ -27,7 +27,7 @@ const Information = () => {
                 <dl className="floor">
                     <dt><img src={kimVocal} /></dt>
                     <dd>
-                        <div className='member'>김민주<span>#보컬 #피아노 #연구소막내온탑</span><span>#카페인충전필수 #._.b</span></div><a href='https://youtube.com/@minju_voice?si=EeKeySwZ36rDIA9z' target="_blank"><img src={youtubeLogo} /></a><a href='https://www.instagram.com/calm_pillar._.mj/' target="_blank"><img src={instagramLogo} /></a>
+                        <div className='member'>김민주<span>#보컬 #피아노 #._.b</span><span>#연구소막내온탑</span><span>#카페인충전필수</span></div><a href='https://youtube.com/@minju_voice?si=EeKeySwZ36rDIA9z' target="_blank"><img src={youtubeLogo} /></a><a href='https://www.instagram.com/calm_pillar._.mj/' target="_blank"><img src={instagramLogo} /></a>
                     </dd>
                 </dl>
                 <dl className="floor">
@@ -51,7 +51,7 @@ const Information = () => {
                 <dl className="floor">
                     <dt><img src={lim} /></dt>
                     <dd>
-                        <div className='member'>임우찬<span>#피아노 #힙찔이 #아직도20대:)</span></div><a href='https://www.instagram.com/channy__channy/' target="_blank"><img src={instagramLogo} /></a>
+                        <div className='member'>임우찬<span>#피아노 #힙찔이</span><span>#아직도20대:)</span></div><a href='https://www.instagram.com/channy__channy/' target="_blank"><img src={instagramLogo} /></a>
                     </dd>
                 </dl>
                 <dl className="floor">
@@ -63,13 +63,13 @@ const Information = () => {
                 <dl className="floor">
                     <dt><img src={choBass} /></dt>
                     <dd>
-                        <div className='member'>조경업<span>#베이스 #슬랩은처음이라 #노예2년</span></div><a href='https://www.instagram.com/ub.up_0814/' target="_blank"><img src={instagramLogo} /></a>
+                        <div className='member'>조경업<span>#베이스 #슬랩은처음이라</span><span>#노예2년</span></div><a href='https://www.instagram.com/ub.up_0814/' target="_blank"><img src={instagramLogo} /></a>
                     </dd>
                 </dl>
                 <dl className="floor">
                     <dt><img src={choDrum} /></dt>
                     <dd>
-                        <div className='member'>조용호<span>#드럼 #지금도막내 #앞으로도막내</span></div><a href='https://www.instagram.com/yongho7495/' target="_blank"><img src={instagramLogo} /></a>
+                        <div className='member'>조용호<span>#드럼 #지금도막내</span><span>#앞으로도막내</span></div><a href='https://www.instagram.com/yongho7495/' target="_blank"><img src={instagramLogo} /></a>
                     </dd>
                 </dl>
                 <dl className="floor">

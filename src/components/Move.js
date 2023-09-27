@@ -84,9 +84,9 @@ const Information = () => {
                     <div className="route">
                         <div>공연 시작 전에 착석 부탁드립니다.</div>
                     </div>
-                    {/* <div className="route">
-                        <div>식사 먼저 하시는 분들은 4층을 이용해주세요</div>
-                    </div> */}
+                    <div className="route">
+                        <div>다양한 이벤트들이 준비되어 있습니다. 많은 참여 부탁드립니다.</div>
+                    </div>
                 </div>
             </div>
         </div>
